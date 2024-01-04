@@ -17,5 +17,5 @@ lado = int(input("Lado del hexágono: "))
 for i in range(-lado + 1, lado):
     espacios = abs(i)
     asteriscos = lado - espacios
-    print(' ' * espacios + '*' * (2 * asteriscos - 1))
+    print(' ' * espacios + '*' * (2 * asteriscos - 1)) 
 

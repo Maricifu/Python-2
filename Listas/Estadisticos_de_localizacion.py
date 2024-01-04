@@ -48,5 +48,4 @@ for i in range(num_datos):
     dato = float(input(f"Ingrese el dato {i + 1}: "))
     datos_ingresados.append(dato)
 
-generar_reporte(datos_ingresados)
-
+generar_reporte(datos_ingresados) 

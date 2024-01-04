@@ -26,3 +26,4 @@ print(f"El dígito verificador es: {digito_verificador}")
 
 rol_completo = f"{rol_sin_digito}-{digito_verificador}"
 print(f"El rol completo con dígito verificador es: {rol_completo}")
+ 

@@ -11,4 +11,3 @@ mayores_al_promedio = sum(1 for dato in datos if dato > promedio)
 
 print(f"El promedio de los datos es: {promedio:.2f}")
 print(f"{mayores_al_promedio} dato(s) es/son mayor(es) que el promedio.")
-

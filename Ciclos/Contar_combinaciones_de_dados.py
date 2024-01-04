@@ -15,5 +15,5 @@ puntaje_ingresado = int(input("Ingrese el puntaje: "))
 
 combinaciones_totales = contar_combinaciones(puntaje_ingresado)
 
-print(f"Hay {combinaciones_totales} combinaciones para obtener {puntaje_ingresado}")
+print(f"Hay {combinaciones_totales} combinaciones para obtener {puntaje_ingresado}") 
 

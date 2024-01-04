@@ -15,5 +15,5 @@ while True:
 horas_totales = tiempo_total // 60
 minutos_totales = tiempo_total % 60
 
-print(f"El tiempo total de viaje es: {horas_totales} horas y {minutos_totales} minutos.")
+print(f"El tiempo total de viaje es: {horas_totales} horas y {minutos_totales} minutos.") 
 

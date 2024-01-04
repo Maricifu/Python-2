@@ -13,4 +13,4 @@ for i in range(1, n + 1):
         palabra_mas_corta = palabra
 
 print(f"La palabra más larga es {palabra_mas_larga}")
-print(f"La palabra más corta es {palabra_mas_corta}")
+print(f"La palabra más corta es {palabra_mas_corta}") 

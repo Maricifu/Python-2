@@ -20,3 +20,4 @@ def jugar_campeonato():
     print(f"\nCampeon: {rondas[-1][0]}")
 
 jugar_campeonato()
+ 

@@ -14,6 +14,6 @@ n = int(input("Ingrese el número de términos para la estimación de π: "))
 pi_estimado = estimar_pi(n)
 
 print(f"La estimación de π con {n} términos es: {pi_estimado}")
-print(f"El valor real de π es: {math.pi}")
+print(f"El valor real de π es: {math.pi}")  
 
 

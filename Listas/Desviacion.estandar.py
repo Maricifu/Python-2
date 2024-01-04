@@ -19,7 +19,7 @@ if len(valores) < 2:
     print("Debe ingresar al menos dos valores para calcular la desviación estándar.")
 else:
     resultado = desviacion_estandar(valores)
-    print(f"La desviación estándar es: {resultado:.2f}")
+    print(f"La desviación estándar es: {resultado:.2f}") 
 
 
     

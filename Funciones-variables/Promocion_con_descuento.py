@@ -21,4 +21,4 @@ precio_final = precio_total - descuento_total
 
 print(f"Precio total: {precio_total:.2f} pesos")
 print(f"Descuento total: {descuento_total:.2f} pesos")
-print(f"Precio final después del descuento: {precio_final:.2f} pesos")
+print(f"Precio final después del descuento: {precio_final:.2f} pesos")  

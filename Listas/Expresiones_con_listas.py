@@ -27,5 +27,3 @@ d = ['perro', 'gato', 'jirafa', 'elefante']
 e = ['a', a, 2 * a]
 
 print(complex(b[0],b[1]))
-
-

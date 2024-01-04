@@ -17,4 +17,3 @@ print(todos_iguales([7, 7, 7, 7, 7, 7, 7, 7, 7]))             # True
 print(todos_distintos(list(range(1000))))                     # True
 print(todos_iguales([12]))                                    # True
 print(todos_distintos(list('hiperblanduzcos')))              # True
-

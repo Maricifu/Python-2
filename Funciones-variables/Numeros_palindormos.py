@@ -10,4 +10,4 @@ numero = int(input("Ingrese n: "))
 if es_palindromo(numero):
     print("Es palíndromo")
 else:
-    print("No es palíndromo")
+    print("No es palíndromo") 

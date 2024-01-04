@@ -17,5 +17,5 @@ for dia in range(1, n + 1):
 if mayor_alza > 0:
     print(f"La mayor alza fue de {mayor_alza:.2f} pesos")
 else:
-    print("No hubo alzas")
+    print("No hubo alzas") 
     

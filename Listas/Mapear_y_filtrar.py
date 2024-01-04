@@ -19,3 +19,4 @@ print(resultado_filtrar)  # Resultado esperado: ['arroz', 'mochila']
 
 
 print(palabras)  # ['arroz', 'leon', 'oso', 'mochila']
+ 

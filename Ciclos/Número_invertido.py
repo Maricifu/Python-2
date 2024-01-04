@@ -39,4 +39,4 @@ while programa== "n dígitos":
 
 while (not programa==("3 dígitos") or programa==("n dígitos") ):
     print("Indique correctamente el programa")
-    break
+    break 

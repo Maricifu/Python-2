@@ -13,4 +13,4 @@ while fraccion > 0.000001:
     potencia += 1
     fraccion /= 2
 
-print("La fracción decimal es menor o igual a 0.000001.")
+print("La fracción decimal es menor o igual a 0.000001.") 

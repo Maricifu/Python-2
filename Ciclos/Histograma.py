@@ -15,5 +15,5 @@ while True:
         negativos += 1
 
 print(f"Se ingresaron {positivos} valores positivos.")
-print(f"Se ingresaron {negativos} valores negativos.")
+print(f"Se ingresaron {negativos} valores negativos.") 
 
