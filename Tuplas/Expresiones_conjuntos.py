@@ -1,29 +1,30 @@
-ventas = [
-    ("ProductoA", 10, 150),
-    ("ProductoB", 5, 200),
-    ("ProductoA", 8, 120),
-    ("ProductoC", 12, 80),
-    ("ProductoB", 3, 210),
-    ("ProductoA", 15, 130),
-    ("ProductoC", 7, 85),
-]
+a = {5, 2, 3, 9, 4}
+b = {3, 1}
+c = {7, 5, 5, 1, 8, 6}
+d = [6, 2, 4, 5, 5, 3, 1, 3, 7, 8]
+e = {(2, 3), (3, 4), (4, 5)}
+f = [{2, 3}, {3, 4}, {4, 5}]
 
-total_ventas_por_producto = {}
-for venta in ventas:
-    producto, cantidad, precio_unitario = venta
-    total_ventas_por_producto[producto] = total_ventas_por_producto.get(producto, 0) + cantidad
+# len(c)= 5
+# len(set(d))=8
+# a&(b|c)={3, 5}
+# (a&b)|c={1, 3, 5, 6, 7, 8}
+# c-a={8, 1, 6, 7}
+# max(e)=(4, 5)
+# f[0]<a=true
+# set(range(4))&a=4={2, 3}
+# (set(range(4))&a)in f=true
+# len(set('perro'))=4
+# len({'perro'})=1
 
-print("1. Total de Ventas por Producto:")
-print(total_ventas_por_producto)
-print()
-
-productos_mas_de_10_ventas = {producto for producto, cantidad in total_ventas_por_producto.items() if cantidad > 10}
-
-print("2. Productos con Más de 10 Ventas:")
-print(productos_mas_de_10_ventas)
-print()
-
-ganancia_total = sum(cantidad * precio_unitario for _, cantidad, precio_unitario in ventas)
-
-print("3. Ganancia Total:")
-print(ganancia_total)
+print(len(c))
+print(len(set(d)))
+print(a&(b|c))
+print((a&b)|c)
+print(c-a)
+print(max(e))
+print(f[0]<a)
+print(set(range(4))&a)
+print((set(range(4))&a)in f)
+print(len(set('perro')))
+print(len({'perro'}))
