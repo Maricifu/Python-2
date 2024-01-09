@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Artemis",
+    "ruta": "NoteJS",
+    "modulo": "Fundamentos",
+    "trainer": "Sergio"
+  },
+  {
+    "nombre": "Sputnik",
+    "ruta": "Java",
+    "modulo": "Python",
+    "trainer": "Sandra"
+  },
+  {
+    "nombre": "Apolo",
+    "ruta": "NetCore",
+    "modulo": "Java Script",
+    "trainer": "Diego"
+  }
+]

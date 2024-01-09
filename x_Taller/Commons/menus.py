@@ -36,7 +36,7 @@ def menu_matriculas():
     print("----------- Menú Matriculas-----------")
     print("1. Crear Matriculas")
     print("2. Buscar Matriculas")
-    print("3. Modificar Matriuclas")
+    print("3. Modificar Matriculas")
     print("4. Salir")
     op=validar_opcion("Opcion: ",1,4)
     return op

@@ -1,38 +1,38 @@
 [
-    {
-        "Nombre": "Sergio",
-        "Apellido": "Ramos",
-        "Ruta":"NodeJs",
-        "Horario":"Mañana"
-      },
-      {
-        "Nombre": "Alejandro",
-        "Apellido": "Sanchez",
-        "Ruta": "Java",
-        "Horario":"Mañana"
-      },
-      {
-        "Nombre": "Diego",
-        "Apellido": "Rueda",
-        "Ruta": "NetCore",
-        "Horario":"Mañana"
-      },
-      {
-        "Nombre": "Camilo",
-        "Apellido": "Yepes",
-        "Ruta":"NodeJs",
-        "Horario":"Tarde"
-      },
-      {
-        "Nombre": "Alfredo",
-        "Apellido": "Camacho",
-        "Ruta": "Java",
-        "Horario":"Tarde"
-      },
-      {
-        "Nombre": "Sandra",
-        "Apellido": "Rodriguez",
-        "Ruta": "NetCore",
-        "Horario":"Tarde"
-      }
+  {
+    "nombre": "Sergio",
+    "apellido": "Ramos",
+    "ruta": "NodeJs",
+    "horario": "Ma\u00c3\u00b1ana"
+  },
+  {
+    "nombre": "Alejandro",
+    "apellido": "Sanchez",
+    "ruta": "Java",
+    "horario": "Ma\u00c3\u00b1ana"
+  },
+  {
+    "nombre": "Diego",
+    "apellido": "Rueda",
+    "ruta": "NetCore",
+    "horario": "Ma\u00c3\u00b1ana"
+  },
+  {
+    "nombre": "Camilo",
+    "apellido": "Yepes",
+    "ruta": "NodeJs",
+    "horario": "Tarde"
+  },
+  {
+    "nombre": "Alfredo",
+    "apellido": "Camacho",
+    "ruta": "Java",
+    "horario": "Tarde"
+  },
+  {
+    "nombre": "Sandra",
+    "apellido": "Rodriguez",
+    "ruta": "NetCore",
+    "horario": "Tarde"
+  }
 ]

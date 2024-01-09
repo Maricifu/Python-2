@@ -1,315 +1,262 @@
 [
   {
-    "Nombre": "Tresa",
-    "Apellido": "Novik",
-    "Identificacion": "474-07-3847",
-    "Direccion": "71 Division Lane",
-    "Telefono": "+62 747 932 6977",
-    "Acudiente": "Avery",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Tresa",
+    "apellido": "Novik",
+    "identificacion": "474073847",
+    "direccion": "71 Division Lane",
+    "telefono": "+62 747 932 6977",
+    "acudiente": "Avery",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Aidan",
-    "Apellido": "Tallent",
-    "Identificacion": "596-72-4335",
-    "Direccion": "3530 Burning Wood Alley",
-    "Telefono": "+30 484 625 7899",
-    "Acudiente": "Paul",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Aidan",
+    "apellido": "Tallent",
+    "identificacion": "596724335",
+    "direccion": "3530 Burning Wood Alley",
+    "telefono": "+30 484 625 7899",
+    "acudiente": "Paul",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Grier",
-    "Apellido": "Roughey",
-    "Identificacion": "898-56-3406",
-    "Direccion": "74289 Eagan Place",
-    "Telefono": "+370 300 973 3958",
-    "Acudiente": "Adrien",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Grier",
+    "apellido": "Roughey",
+    "identificacion": "898563406",
+    "direccion": "74289 Eagan Place",
+    "telefono": "+370 300 973 3958",
+    "acudiente": "Adrien",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Tobin",
-    "Apellido": "Valentin",
-    "Identificacion": "382-76-2084",
-    "Direccion": "17436 Burrows Crossing",
-    "Telefono": "+86 651 984 9821",
-    "Acudiente": "Meta",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Tobin",
+    "apellido": "Valentin",
+    "identificacion": "382762084",
+    "direccion": "17436 Burrows Crossing",
+    "telefono": "+86 651 984 9821",
+    "acudiente": "Meta",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Silvano",
-    "Apellido": "Chalfain",
-    "Identificacion": "362-35-5867",
-    "Direccion": "9328 Parkside Crossing",
-    "Telefono": "+86 129 913 2442",
-    "Acudiente": "Sherri",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Silvano",
+    "apellido": "Chalfain",
+    "identificacion": "362355867",
+    "direccion": "9328 Parkside Crossing",
+    "telefono": "+86 129 913 2442",
+    "acudiente": "Sherri",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Trina",
-    "Apellido": "Panchen",
-    "Identificacion": "868-30-1502",
-    "Direccion": "5371 Helena Lane",
-    "Telefono": "+81 823 570 5406",
-    "Acudiente": "Christoph",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Trina",
+    "apellido": "Panchen",
+    "identificacion": "868301502",
+    "direccion": "5371 Helena Lane",
+    "telefono": "+81 823 570 5406",
+    "acudiente": "Christoph",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Dagny",
-    "Apellido": "Egglestone",
-    "Identificacion": "777-86-2534",
-    "Direccion": "4436 Calypso Crossing",
-    "Telefono": "+33 925 492 5294",
-    "Acudiente": "Olimpia",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Dagny",
+    "apellido": "Egglestone",
+    "identificacion": "777862534",
+    "direccion": "4436 Calypso Crossing",
+    "telefono": "+33 925 492 5294",
+    "acudiente": "Olimpia",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Tymothy",
-    "Apellido": "Gueinn",
-    "Identificacion": "205-36-1764",
-    "Direccion": "72 Ridgeview Terrace",
-    "Telefono": "+57 504 829 0357",
-    "Acudiente": "Patti",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Tymothy",
+    "apellido": "Gueinn",
+    "identificacion": "205361764",
+    "direccion": "72 Ridgeview Terrace",
+    "telefono": "+57 504 829 0357",
+    "acudiente": "Patti",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Kinnie",
-    "Apellido": "Fuentes",
-    "Identificacion": "794-46-7696",
-    "Direccion": "00 Gale Crossing",
-    "Telefono": "+7 912 599 9254",
-    "Acudiente": "Zelda",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Kinnie",
+    "apellido": "Fuentes",
+    "identificacion": "794467696",
+    "direccion": "00 Gale Crossing",
+    "telefono": "+7 912 599 9254",
+    "acudiente": "Zelda",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Paco",
-    "Apellido": "Marsy",
-    "Identificacion": "604-49-5794",
-    "Direccion": "6 Bowman Avenue",
-    "Telefono": "+212 415 319 8016",
-    "Acudiente": "Beryl",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Paco",
+    "apellido": "Marsy",
+    "identificacion": "604495794",
+    "direccion": "6 Bowman Avenue",
+    "telefono": "+212 415 319 8016",
+    "acudiente": "Beryl",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Doralia",
-    "Apellido": "Blencoe",
-    "Identificacion": "708-58-5657",
-    "Direccion": "982 West Lane",
-    "Telefono": "+62 385 242 8471",
-    "Acudiente": "Darrin",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Doralia",
+    "apellido": "Blencoe",
+    "identificacion": "708585657",
+    "direccion": "982 West Lane",
+    "telefono": "+62 385 242 8471",
+    "acudiente": "Darrin",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Laure",
-    "Apellido": "Fearby",
-    "Identificacion": "288-48-8983",
-    "Direccion": "943 Pond Road",
-    "Telefono": "+62 730 991 9572",
-    "Acudiente": "Honey",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Laure",
+    "apellido": "Fearby",
+    "identificacion": "288488983",
+    "direccion": "943 Pond Road",
+    "telefono": "+62 730 991 9572",
+    "acudiente": "Honey",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Farica",
-    "Apellido": "Schulze",
-    "Identificacion": "441-18-9080",
-    "Direccion": "51255 Kipling Road",
-    "Telefono": "+63 703 846 3366",
-    "Acudiente": "Hansiain",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Farica",
+    "apellido": "Schulze",
+    "identificacion": "441189080",
+    "direccion": "51255 Kipling Road",
+    "telefono": "+63 703 846 3366",
+    "acudiente": "Hansiain",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Gibbie",
-    "Apellido": "Heel",
-    "Identificacion": "697-25-6464",
-    "Direccion": "96971 Dahle Terrace",
-    "Telefono": "+46 309 180 7625",
-    "Acudiente": "Daffi",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Gibbie",
+    "apellido": "Heel",
+    "identificacion": "697256464",
+    "direccion": "96971 Dahle Terrace",
+    "telefono": "+46 309 180 7625",
+    "acudiente": "Daffi",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Saunders",
-    "Apellido": "Rigbye",
-    "Identificacion": "288-02-4029",
-    "Direccion": "67 Elka Alley",
-    "Telefono": "+63 470 521 4374",
-    "Acudiente": "Erminie",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Saunders",
+    "apellido": "Rigbye",
+    "identificacion": "288024029",
+    "direccion": "67 Elka Alley",
+    "telefono": "+63 470 521 4374",
+    "acudiente": "Erminie",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Jeri",
-    "Apellido": "Whittam",
-    "Identificacion": "652-83-3655",
-    "Direccion": "97821 Cherokee Center",
-    "Telefono": "+351 661 971 2741",
-    "Acudiente": "Lacy",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Jeri",
+    "apellido": "Whittam",
+    "identificacion": "652833655",
+    "direccion": "97821 Cherokee Center",
+    "telefono": "+351 661 971 2741",
+    "acudiente": "Lacy",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Nicolea",
-    "Apellido": "Gianilli",
-    "Identificacion": "725-55-1815",
-    "Direccion": "374 Moland Avenue",
-    "Telefono": "+63 843 754 4665",
-    "Acudiente": "Serene",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Nicolea",
+    "apellido": "Gianilli",
+    "identificacion": "725551815",
+    "direccion": "374 Moland Avenue",
+    "telefono": "+63 843 754 4665",
+    "acudiente": "Serene",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Gottfried",
-    "Apellido": "Perott",
-    "Identificacion": "663-60-9090",
-    "Direccion": "07878 Everett Parkway",
-    "Telefono": "+86 836 473 8155",
-    "Acudiente": "Salem",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Gottfried",
+    "apellido": "Perott",
+    "identificacion": "663609090",
+    "direccion": "07878 Everett Parkway",
+    "telefono": "+86 836 473 8155",
+    "acudiente": "Salem",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Maurice",
-    "Apellido": "Spavon",
-    "Identificacion": "147-28-8347",
-    "Direccion": "1 Myrtle Court",
-    "Telefono": "+55 836 515 4610",
-    "Acudiente": "Trudi",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Maurice",
+    "apellido": "Spavon",
+    "identificacion": "147288347",
+    "direccion": "1 Myrtle Court",
+    "telefono": "+55 836 515 4610",
+    "acudiente": "Trudi",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Jocelin",
-    "Apellido": "Riccardi",
-    "Identificacion": "402-52-8430",
-    "Direccion": "66452 Sunnyside Crossing",
-    "Telefono": "+420 934 249 7628",
-    "Acudiente": "Shem",
-    "NotaP": "0",
-    "NotaT": "0"
-    
-
-
+    "nombre": "Jocelin",
+    "apellido": "Riccardi",
+    "identificacion": "402528430",
+    "direccion": "66452 Sunnyside Crossing",
+    "telefono": "+420 934 249 7628",
+    "acudiente": "Shem",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Pincas",
-    "Apellido": "Flannery",
-    "Identificacion": "342-62-1145",
-    "Direccion": "7725 Melby Way",
-    "Telefono": "+86 577 104 7639",
-    "Acudiente": "Imelda",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Pincas",
+    "apellido": "Flannery",
+    "identificacion": "342621145",
+    "direccion": "7725 Melby Way",
+    "telefono": "+86 577 104 7639",
+    "acudiente": "Imelda",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Shanta",
-    "Apellido": "O'Dougherty",
-    "Identificacion": "437-31-3857",
-    "Direccion": "1638 Larry Pass",
-    "Telefono": "+254 592 650 6685",
-    "Acudiente": "Issie",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Shanta",
+    "apellido": "O'Dougherty",
+    "identificacion": "437313857",
+    "direccion": "1638 Larry Pass",
+    "telefono": "+254 592 650 6685",
+    "acudiente": "Issie",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Lonnard",
-    "Apellido": "Wilsdon",
-    "Identificacion": "764-48-9326",
-    "Direccion": "2727 Bayside Trail",
-    "Telefono": "+386 834 960 6496",
-    "Acudiente": "Elisha",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Lonnard",
+    "apellido": "Wilsdon",
+    "identificacion": "764489326",
+    "direccion": "2727 Bayside Trail",
+    "telefono": "+386 834 960 6496",
+    "acudiente": "Elisha",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Carolus",
-    "Apellido": "Gravells",
-    "Identificacion": "574-52-6416",
-    "Direccion": "815 Mcguire Road",
-    "Telefono": "+352 947 537 5881",
-    "Acudiente": "Zahara",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Carolus",
+    "apellido": "Gravells",
+    "identificacion": "574526416",
+    "direccion": "815 Mcguire Road",
+    "telefono": "+352 947 537 5881",
+    "acudiente": "Zahara",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Channa",
-    "Apellido": "Franklen",
-    "Identificacion": "848-81-8085",
-    "Direccion": "58 Grover Circle",
-    "Telefono": "+48 826 370 3551",
-    "Acudiente": "Amble",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Channa",
+    "apellido": "Franklen",
+    "identificacion": "848818085",
+    "direccion": "58 Grover Circle",
+    "telefono": "+48 826 370 3551",
+    "acudiente": "Amble",
+    "notaP": "0",
+    "notaT": "0"
   },
   {
-    "Nombre": "Dolf",
-    "Apellido": "Bresland",
-    "Identificacion": "504-25-0626",
-    "Direccion": "2914 Cottonwood Alley",
-    "Telefono": "+48 423 110 2402",
-    "Acudiente": "Juliana",
-    "NotaP": "0",
-    "NotaT": "0"
-
-
+    "nombre": "Dolf",
+    "apellido": "Bresland",
+    "identificacion": "504250626",
+    "direccion": "2914 Cottonwood Alley",
+    "telefono": "+48 423 110 2402",
+    "acudiente": "Juliana",
+    "notaP": "0",
+    "notaT": "0"
   }
 ]
