@@ -4,7 +4,7 @@ import os
 #importar y guardar lista json campers
 def load_campers_json():
     try:
-        with open(os.path.join("python-2","x_Taller","Data","Campers.json"), 'r') as archivo_json:        
+        with open(os.path.join("Python-2","x_Taller","Data","Campers.json"), 'r') as archivo_json:        
             lista_campers = json.load(archivo_json)
             print("La lista de campers ha sido guardada")
             return lista_campers
@@ -44,7 +44,7 @@ def crear_camper():
 #Guardar archivo json de campers
 def guardar_json_campers():
     try:
-      with open(os.path.join("python-2","x_Taller","Data","Campers.json"), 'w') as archivo_json:
+      with open(os.path.join("Python-2","x_Taller","Data","Campers.json"), 'w') as archivo_json:
         json.dump(lista_campers, archivo_json, indent=2)
         print("La lista de campers ha sido guardada")
     except FileNotFoundError:

@@ -4,7 +4,7 @@ import os
 #importar y guardar lista json matriculas
 def load_matriculas_json():
     try:
-        with open(os.path.join("python-2","x_Taller","Data","OldCampers.json"), 'r') as archivo_json:        
+        with open(os.path.join("Python-2","x_Taller","Data","OldCampers.json"), 'r') as archivo_json:        
             lista_matriculas = json.load(archivo_json)
             print("La lista de matriculas ha sido cargada")
             return lista_matriculas
@@ -57,7 +57,7 @@ def crear_matricula():
 # guardar archico json de matriculas
 def guardar_json_matricula():
     try:
-      with open(os.path.join("python-2","x_Taller","Data","OldCampers.json"), 'w') as archivo_json:
+      with open(os.path.join("Python-2","x_Taller","Data","OldCampers.json"), 'w') as archivo_json:
         json.dump(lista_matriculas, archivo_json, indent=2)
         print("La lista de matriculas ha sido guardada")
     except FileNotFoundError:
@@ -112,7 +112,7 @@ def modificar_matricula():
         print("No hay matriculas registradas.")
         return
 
-    identificacion_buscar = int(input("Ingrese la identificación de la matrícula que desea modificar: "))
+    identificacion_buscar = input("Ingrese la identificación de la matrícula que desea modificar: ")
 
     encontrado = False
 
@@ -122,24 +122,19 @@ def modificar_matricula():
             print(Matricula)
 
             # Solicitar al usuario las modificaciones
-            nuevo_nombre = input("Nuevo nombre del camper (deje en blanco para mantener el actual): ")
-            nuevo_apellido = input("Nuevo apellido del camper (deje en blanco para mantener el actual): ")
-            nueva_direccion = input("Nueva dirección del camper (deje en blanco para mantener la actual): ")
-            nuevo_telefono = input("Nuevo teléfono del camper (deje en blanco para mantener el actual): ")
-            nuevo_acudiente = input("Nuevo acudiente del camper (deje en blanco para mantener el actual): ")
-            nueva_ruta = input("Nueva ruta del camper (deje en blanco para mantener la actual): ")
-            nuevo_horario = input("Nuevo horario del camper (deje en blanco para mantener el actual): ")
-            nuevo_trainer = input("Nuevo trainer asignado (deje en blanco para mantener el actual): ")
-            nueva_aula = input("Nueva aula (deje en blanco para mantener la actual): ")
-            nuevo_modulo = input("Nuevo modulo (deje en blanco para mantener el actual): ")
-            nueva_fecha_inicio = input("Nueva fecha de inicio (deje en blanco para mantener la actual): ")
-            nueva_fecha_fin = input("Nueva fecha estimada para finalizar la formación (deje en blanco para mantener la actual): ")
+            nueva_direccion = input("Nueva dirección del camper (Enter para mantener la actual): ")
+            nuevo_telefono = input("Nuevo teléfono del camper (Enter para mantener el actual): ")
+            nuevo_acudiente = input("Nuevo acudiente del camper (Enter para mantener el actual): ")
+            nueva_ruta = input("Nueva ruta del camper (Enter para mantener la actual): ")
+            nuevo_horario = input("Nuevo horario del camper (Enter para mantener el actual): ")
+            nuevo_trainer = input("Nuevo trainer asignado (Enter para mantener el actual): ")
+            nueva_aula = input("Nueva aula (Enter para mantener la actual): ")
+            nuevo_modulo = input("Nuevo modulo (Enter para mantener el actual): ")
+            nueva_fecha_inicio = input("Nueva fecha de inicio (Enter para mantener la actual): ")
+            nueva_fecha_fin = input("Nueva fecha estimada para finalizar la formación (Enter para mantener la actual): ")
 
             # Aplicar las modificaciones si se proporcionan nuevos valores
-            if nuevo_nombre:
-                Matricula['nombre'] = nuevo_nombre
-            if nuevo_apellido:
-                Matricula['apellido'] = nuevo_apellido
+            
             if nueva_direccion:
                 Matricula['direccion'] = nueva_direccion
             if nuevo_telefono:
@@ -171,4 +166,3 @@ def modificar_matricula():
     # Guardar la lista de matriculas actualizada
     guardar_json_matricula()
 
-modificar_matricula()

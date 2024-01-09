@@ -4,7 +4,7 @@ import os
 #importar y guardar lista json aula
 def load_aulas_json():
     try:
-        with open(os.path.join("python-2","x_Taller","Data","Aulas.json"), 'r') as archivo_json:        
+        with open(os.path.join("Python-2","x_Taller","Data","Aulas.json"), 'r') as archivo_json:        
             lista_aulas = json.load(archivo_json)
             print("La lista de Aulas ha sido cargada")
             return lista_aulas
@@ -39,7 +39,7 @@ def crear_aulas():
 #Guardar archivo json de aulas
 def guardar_aulas_json():
     try:
-      with open(os.path.join("python-2","x_Taller","Data","Aulas.json"), 'w') as archivo_json:
+      with open(os.path.join("Python-2","x_Taller","Data","Aulas.json"), 'w') as archivo_json:
         json.dump(lista_aulas, archivo_json, indent=2)
         print("La lista de Aulas ha sido guardada")
     except FileNotFoundError:
@@ -109,4 +109,3 @@ def modificar_aulas():
             return
 
     print(f"No se encontró un aula con el nombre {nombre_aula}.")
-   

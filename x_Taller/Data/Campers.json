@@ -1,13 +1,13 @@
 [
   {
-    "nombre": "Tresa",
+    "nombre": "Teresa",
     "apellido": "Novik",
     "identificacion": "474073847",
     "direccion": "71 Division Lane",
     "telefono": "+62 747 932 6977",
     "acudiente": "Avery",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 50,
+    "notaT": 80
   },
   {
     "nombre": "Aidan",
@@ -16,8 +16,8 @@
     "direccion": "3530 Burning Wood Alley",
     "telefono": "+30 484 625 7899",
     "acudiente": "Paul",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 0,
+    "notaT": 90
   },
   {
     "nombre": "Grier",
@@ -26,8 +26,8 @@
     "direccion": "74289 Eagan Place",
     "telefono": "+370 300 973 3958",
     "acudiente": "Adrien",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 80,
+    "notaT": 10
   },
   {
     "nombre": "Tobin",
@@ -36,8 +36,8 @@
     "direccion": "17436 Burrows Crossing",
     "telefono": "+86 651 984 9821",
     "acudiente": "Meta",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 100,
+    "notaT": 20
   },
   {
     "nombre": "Silvano",
@@ -46,8 +46,8 @@
     "direccion": "9328 Parkside Crossing",
     "telefono": "+86 129 913 2442",
     "acudiente": "Sherri",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 20,
+    "notaT": 20
   },
   {
     "nombre": "Trina",
@@ -56,8 +56,8 @@
     "direccion": "5371 Helena Lane",
     "telefono": "+81 823 570 5406",
     "acudiente": "Christoph",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 90,
+    "notaT": 80
   },
   {
     "nombre": "Dagny",
@@ -66,8 +66,8 @@
     "direccion": "4436 Calypso Crossing",
     "telefono": "+33 925 492 5294",
     "acudiente": "Olimpia",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 30,
+    "notaT": 100
   },
   {
     "nombre": "Tymothy",
@@ -76,8 +76,8 @@
     "direccion": "72 Ridgeview Terrace",
     "telefono": "+57 504 829 0357",
     "acudiente": "Patti",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 70,
+    "notaT": 70
   },
   {
     "nombre": "Kinnie",
@@ -86,8 +86,8 @@
     "direccion": "00 Gale Crossing",
     "telefono": "+7 912 599 9254",
     "acudiente": "Zelda",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 0,
+    "notaT": 0
   },
   {
     "nombre": "Paco",
@@ -96,8 +96,8 @@
     "direccion": "6 Bowman Avenue",
     "telefono": "+212 415 319 8016",
     "acudiente": "Beryl",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 10,
+    "notaT": 0
   },
   {
     "nombre": "Doralia",
@@ -106,8 +106,8 @@
     "direccion": "982 West Lane",
     "telefono": "+62 385 242 8471",
     "acudiente": "Darrin",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 0,
+    "notaT": 100
   },
   {
     "nombre": "Laure",
@@ -116,8 +116,8 @@
     "direccion": "943 Pond Road",
     "telefono": "+62 730 991 9572",
     "acudiente": "Honey",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 40,
+    "notaT": 90
   },
   {
     "nombre": "Farica",
@@ -126,8 +126,8 @@
     "direccion": "51255 Kipling Road",
     "telefono": "+63 703 846 3366",
     "acudiente": "Hansiain",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 90,
+    "notaT": 100
   },
   {
     "nombre": "Gibbie",
@@ -136,8 +136,8 @@
     "direccion": "96971 Dahle Terrace",
     "telefono": "+46 309 180 7625",
     "acudiente": "Daffi",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 100,
+    "notaT": 70
   },
   {
     "nombre": "Saunders",
@@ -146,8 +146,8 @@
     "direccion": "67 Elka Alley",
     "telefono": "+63 470 521 4374",
     "acudiente": "Erminie",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 80,
+    "notaT": 30
   },
   {
     "nombre": "Jeri",
@@ -156,8 +156,8 @@
     "direccion": "97821 Cherokee Center",
     "telefono": "+351 661 971 2741",
     "acudiente": "Lacy",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 0,
+    "notaT": 40
   },
   {
     "nombre": "Nicolea",
@@ -166,8 +166,8 @@
     "direccion": "374 Moland Avenue",
     "telefono": "+63 843 754 4665",
     "acudiente": "Serene",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 10,
+    "notaT": 100
   },
   {
     "nombre": "Gottfried",
@@ -176,8 +176,8 @@
     "direccion": "07878 Everett Parkway",
     "telefono": "+86 836 473 8155",
     "acudiente": "Salem",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 20,
+    "notaT": 40
   },
   {
     "nombre": "Maurice",
@@ -186,8 +186,8 @@
     "direccion": "1 Myrtle Court",
     "telefono": "+55 836 515 4610",
     "acudiente": "Trudi",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 0,
+    "notaT": 0
   },
   {
     "nombre": "Jocelin",
@@ -196,8 +196,8 @@
     "direccion": "66452 Sunnyside Crossing",
     "telefono": "+420 934 249 7628",
     "acudiente": "Shem",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 0,
+    "notaT": 40
   },
   {
     "nombre": "Pincas",
@@ -206,8 +206,8 @@
     "direccion": "7725 Melby Way",
     "telefono": "+86 577 104 7639",
     "acudiente": "Imelda",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 10,
+    "notaT": 100
   },
   {
     "nombre": "Shanta",
@@ -216,8 +216,8 @@
     "direccion": "1638 Larry Pass",
     "telefono": "+254 592 650 6685",
     "acudiente": "Issie",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 30,
+    "notaT": 40
   },
   {
     "nombre": "Lonnard",
@@ -226,8 +226,8 @@
     "direccion": "2727 Bayside Trail",
     "telefono": "+386 834 960 6496",
     "acudiente": "Elisha",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 60,
+    "notaT": 10
   },
   {
     "nombre": "Carolus",
@@ -236,8 +236,8 @@
     "direccion": "815 Mcguire Road",
     "telefono": "+352 947 537 5881",
     "acudiente": "Zahara",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 0,
+    "notaT": 60
   },
   {
     "nombre": "Channa",
@@ -246,8 +246,8 @@
     "direccion": "58 Grover Circle",
     "telefono": "+48 826 370 3551",
     "acudiente": "Amble",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 90,
+    "notaT": 90
   },
   {
     "nombre": "Dolf",
@@ -256,7 +256,7 @@
     "direccion": "2914 Cottonwood Alley",
     "telefono": "+48 423 110 2402",
     "acudiente": "Juliana",
-    "notaP": "0",
-    "notaT": "0"
+    "notaP": 30,
+    "notaT": 100
   }
 ]
