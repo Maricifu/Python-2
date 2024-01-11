@@ -1,0 +1,76 @@
+{
+  "blockbuster": {
+    "peliculas": {
+      "P01": {
+        "id": "P01",
+        "nombre": "xx",
+        "duracion": "xx",
+        "sinopsis": "xx",
+        "generos": {
+          "G01": {
+            "id": "G01",
+            "nombre": "xx"
+          },
+          "G2": {
+            "id": "G2",
+            "nombre": ""
+          }
+        },
+        "actores": {
+          "A01": {
+            "id": "A01",
+            "nombre": "xx",
+            "rol": "Protagonista o Antagonista o Reparto"
+          }
+        },
+        "formato": {
+          "F01": {
+            "id": "F01",
+            "nombre": "DVD",
+            "nroCopias": 2,
+            "valorPrestamo": 5000
+          },
+          "F02": {
+            "id": "F02",
+            "nombre": "BlueRay",
+            "nroCopias": 2,
+            "valorPrestamo": 8000,
+      "P02":{
+        "id": "P02",
+        "nombre": "xxx",
+        "duracion": "xxx",
+        "sinopsis": "xxx",
+        "generos":{
+            "G02":{
+                "id": "G02",
+                "nombre": "xxx"
+            }
+        }, 
+        "actores": {
+            "A02":{
+                "id": "A02",
+                "nombre": "xx",
+                "rol": "Protagonista o Antagonista o Reparto"
+            }
+        },
+        "formato":{
+            "F01":{
+                "id": "F01",
+                "nombre": "DVD",
+                "nroCopias":2,
+                "valorPrestamo": 5000
+            },
+            "F02":{
+                "id":"F02",
+                "nombre": "BlueRay",
+                "nroCopias":2,
+                "valorPrestamo": 8000
+              }
+              }          
+            }
+          }
+        }
+      }
+    }
+  }
+}
